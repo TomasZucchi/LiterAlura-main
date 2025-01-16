@@ -6,7 +6,8 @@ Esta aplicación permite consultar libros y autores a partir de la API de [Guten
 ![image](https://github.com/user-attachments/assets/fabaaf22-7a5d-4cdb-9871-ee1d515357a1)
 
 
-![Captura de pantalla 2024-06-01 193131](https://github.com/TomasZucchi/LiterAlura/assets/135768377/73cca7fb-e04b-4e63-8a4e-20f997acb0ff)
+![image](https://github.com/user-attachments/assets/e47fcbe5-42c5-4d2c-bf99-85475966b67f)
+
 
 ![Captura de pantalla 2024-06-01 193310](https://github.com/TomasZucchi/LiterAlura/assets/135768377/d29e2e85-ef42-4cb0-a3de-246b1e86b05d)
 
