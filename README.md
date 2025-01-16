@@ -15,3 +15,4 @@ Esta aplicación permite consultar libros y autores a partir de la API de [Guten
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
+![image](https://github.com/user-attachments/assets/123e2a49-852b-48ca-8346-735ac6663df9)
