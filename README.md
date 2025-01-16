@@ -12,7 +12,8 @@ Esta aplicación permite consultar libros y autores a partir de la API de [Guten
 ![image](https://github.com/user-attachments/assets/74a97414-9e78-46d8-8cd9-1e48d5d9c13d)
 
 
-![Captura de pantalla 2024-06-01 193411](https://github.com/TomasZucchi/LiterAlura/assets/135768377/0fd4754a-2d98-4b7a-bf0f-53527b52a6d0)
+![image](https://github.com/user-attachments/assets/6d44c5bf-f775-4b2b-be68-500ca401cce8)
+
 ## 👨‍💻 Tecnologías utilizadas
 - Java
 - Spring Boot
