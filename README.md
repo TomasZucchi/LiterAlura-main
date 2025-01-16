@@ -3,7 +3,8 @@ Challenge de la formación Backend de Alura Latam + Oracle
 ## 💻 Aplicación
 Esta aplicación permite consultar libros y autores a partir de la API de [Gutendex](https://gutendex.com/). La app cuenta con un menú con diferentes opciones para que el usuario pueda interactura. Cada libro que se consulta es almacenado en una base de datos local la cual guarda información del libro y del autor. Además se pueden realizar consultas a esta base de datos. 
 ## ⚙️ Funciones de la aplicación
-![Captura de pantalla 2024-06-01 192917][(https://github.com/TomasZucchi/LiterAlura/assets/135768377/421d89b4-076e-4c42-aac1-6f1f317ab08b)](https://github.com/TomasZucchi/LiterAlura-main/blob/master/assets/1.png?raw=true).
+![image](https://github.com/user-attachments/assets/fabaaf22-7a5d-4cdb-9871-ee1d515357a1)
+
 
 ![Captura de pantalla 2024-06-01 193131](https://github.com/TomasZucchi/LiterAlura/assets/135768377/73cca7fb-e04b-4e63-8a4e-20f997acb0ff)
 
@@ -15,4 +16,4 @@ Esta aplicación permite consultar libros y autores a partir de la API de [Guten
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
-![image](https://github.com/user-attachments/assets/123e2a49-852b-48ca-8346-735ac6663df9)
+
